@@ -2,8 +2,6 @@
 
 This is a simplified setup for your raylib game that uses docker, so you don't have to install anything, and it will work on every environment. It features a live-reloading local server, and can also build as a website.
 
-Emscripten toolkit seems to only wortk on amd64, so that platform is forced for all.
-
 
 ## usage
 
